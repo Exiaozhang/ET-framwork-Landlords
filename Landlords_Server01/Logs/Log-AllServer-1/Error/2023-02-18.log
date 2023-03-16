@@ -1,0 +1,55 @@
+2023-02-18 14:40:04.7959 AllServer 0001 System.Exception: AddComponent, component already exist, id: 1, component: DBComponent
+   at ETModel.Entity.AddComponent[K]() in E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Object\Entity.cs:line 98
+   at App.Program.Main(String[] args) in E:\EtLandLords\Landlords_Server01\Server\App\Program.cs:line 85 
+ Main at offset 3593 in file:line:column E:\EtLandLords\Landlords_Server01\Server\App\Program.cs:85:17
+Error at offset 124 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Log.cs:32:4
+Error at offset 64 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2023-02-18 15:01:50.9857 AllServer 0001 消息没有处理: 10007 { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" } 
+ OnRead at offset 76 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 91 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 265 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2384 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 312 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:84:5
+Error at offset 82 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2023-02-18 15:02:09.2742 AllServer 0001 消息没有处理: 10009 { "_t" : "A0001_Register_C2R", "RpcId" : 2, "Account" : "1", "Password" : "1" } 
+ OnRead at offset 76 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 91 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 265 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2384 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 312 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:84:5
+Error at offset 82 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2023-02-18 15:04:03.1484 AllServer 0001 消息没有处理: 10009 { "_t" : "A0001_Register_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" } 
+ OnRead at offset 76 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 497 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 157 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 91 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 265 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 80 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2384 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 312 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:84:5
+Error at offset 82 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 64 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+
+2023-02-18 22:38:53.4791 AllServer 0001 消息没有处理: 10001 { "_t" : "A1001_GetUserInfo_C2G", "RpcId" : 3 } 
+ OnRead at offset 70 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:120:5
+Run at offset 485 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:154:4
+RunMessage at offset 145 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Module\Message\Session.cs:160:4
+Dispatch at offset 85 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:9:4
+DispatchAsync at offset 259 in file:line:column <filename unknown>:0:0
+Start<TStateMachine> at offset 68 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Async\AsyncETVoidMethodBuilder.cs:74:13
+MoveNext at offset 2354 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\OuterMessageDispatcher.cs:82:7
+Handle at offset 306 in file:line:column E:\EtLandLords\Landlords_Server01\Server\Hotfix\Module\Message\MessageDispatherComponentSystem.cs:84:5
+Error at offset 70 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Log.cs:37:4
+Error at offset 58 in file:line:column E:\EtLandLords\Landlords_Server01\Server\ET.Core\Base\Logger\NLogAdapter.cs:32:4
+

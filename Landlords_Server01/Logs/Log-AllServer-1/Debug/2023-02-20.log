@@ -1,0 +1,31 @@
+2023-02-20 23:06:40.2541 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-20 23:06:40.2824 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-20 23:06:40.3759 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-20 23:06:47.5634 AllServer 0001 (Session.cs:142) { "_t" : "A0001_Register_C2R", "RpcId" : 2, "Account" : "", "Password" : "" }
+2023-02-20 23:06:47.5773 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 2, "CollectionName" : "AccountInfo", "Json" : "{Account:''}" }
+2023-02-20 23:06:47.6088 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [], "RpcId" : 2, "Error" : 0, "Message" : null }
+2023-02-20 23:06:47.6270 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 3, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "AccountInfo", "_id" : NumberLong("101676905608"), "C" : [], "Account" : "", "Password" : "" } }
+2023-02-20 23:06:47.7359 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 3, "Error" : 0, "Message" : null }
+2023-02-20 23:06:47.7519 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 4, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905608"), "C" : [], "UserName" : "", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong(0), "Email" : "", "Sex" : "", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-20 23:06:47.7814 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 4, "Error" : 0, "Message" : null }
+2023-02-20 23:06:53.5145 AllServer 0001 (Session.cs:142) { "_t" : "A0001_Register_C2R", "RpcId" : 3, "Account" : "1", "Password" : "1" }
+2023-02-20 23:06:53.5302 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 5, "CollectionName" : "AccountInfo", "Json" : "{Account:'1'}" }
+2023-02-20 23:06:53.5615 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [], "RpcId" : 5, "Error" : 0, "Message" : null }
+2023-02-20 23:06:53.5769 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 6, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "AccountInfo", "_id" : NumberLong("101676905615"), "C" : [], "Account" : "1", "Password" : "1" } }
+2023-02-20 23:06:53.6081 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 6, "Error" : 0, "Message" : null }
+2023-02-20 23:06:53.6241 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 7, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905615"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong(0), "Email" : "", "Sex" : "", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-20 23:06:53.6559 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 7, "Error" : 0, "Message" : null }
+2023-02-20 23:06:55.0145 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 4, "Account" : "1", "Password" : "1" }
+2023-02-20 23:06:55.0302 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 8, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-20 23:06:55.0620 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676905615"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 8, "Error" : 0, "Message" : null }
+2023-02-20 23:06:55.0785 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 9, "UserID" : NumberLong("101676905615") }
+2023-02-20 23:06:55.0938 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 9, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("-7649839809702341730") }
+2023-02-20 23:06:55.1097 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 5, "GateLoginKey" : NumberLong("-7649839809702341730") }
+2023-02-20 23:06:55.1404 AllServer 0001 (Session.cs:142) { "_t" : "A1001_GetUserInfo_C2G", "RpcId" : 6 }
+2023-02-20 23:06:55.1562 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryRequest", "RpcId" : 10, "_id" : NumberLong("101676905615"), "NeedCache" : true, "CollectionName" : "UserInfo" }
+2023-02-20 23:06:55.1717 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryResponse", "RpcId" : 10, "Error" : 0, "Message" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905615"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong(0), "Email" : "", "Sex" : "", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-20 23:07:21.9483 AllServer 0001 (Session.cs:142) { "_t" : "A1002_SetUserInfo_C2G", "RpcId" : 7, "Phone" : NumberLong("15376501252"), "Email" : "2497179110@qq.com", "Sex" : "男", "Title" : "" }
+2023-02-20 23:07:21.9616 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryRequest", "RpcId" : 11, "_id" : NumberLong("101676905615"), "NeedCache" : true, "CollectionName" : "UserInfo" }
+2023-02-20 23:07:21.9774 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryResponse", "RpcId" : 11, "Error" : 0, "Message" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905615"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong(0), "Email" : "", "Sex" : "", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-20 23:07:21.9934 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 12, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905615"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong("15376501252"), "Email" : "2497179110@qq.com", "Sex" : "男", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-20 23:07:22.0234 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 12, "Error" : 0, "Message" : null }

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8o9rjHJLJVt5Fb3vMFDaShXCV4+G7PKjxlbQunRTQ4XN07moOLwOHYOJXI0uCVAyuUDQ9vHg27SRy2oA79yuw==",
+  "success": true,
+  "projectFilePath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qwq\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\qwq\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\qwq\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\qwq\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\qwq\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\qwq\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\qwq\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

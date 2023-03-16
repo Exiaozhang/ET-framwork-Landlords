@@ -1,0 +1,16 @@
+2023-02-22 18:50:34.9837 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-22 18:50:35.0130 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-22 18:50:35.1217 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676905615"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-22 18:50:35.1217 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676905615") }
+2023-02-22 18:50:35.1528 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("2703564431883366900") }
+2023-02-22 18:50:35.1717 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("2703564431883366900") }
+2023-02-22 18:50:35.1834 AllServer 0001 (Session.cs:142) { "_t" : "A0004_PlayerOnline_G2R", "RpcId" : 0, "UserID" : NumberLong("101676905615"), "GateAppID" : 1 }
+2023-02-22 18:50:35.1989 AllServer 0001 (Session.cs:142) { "_t" : "A1001_GetUserInfo_C2G", "RpcId" : 3 }
+2023-02-22 18:50:35.1989 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryRequest", "RpcId" : 3, "_id" : NumberLong("101676905615"), "NeedCache" : true, "CollectionName" : "UserInfo" }
+2023-02-22 18:50:35.2762 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryResponse", "RpcId" : 3, "Error" : 0, "Message" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905615"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong("15376501252"), "Email" : "2497179110@qq.com", "Sex" : "男", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-22 18:50:46.7617 AllServer 0001 (Session.cs:142) { "_t" : "A1002_SetUserInfo_C2G", "RpcId" : 4, "Phone" : NumberLong(1), "Email" : "1", "Sex" : "1", "Title" : "" }
+2023-02-22 18:50:46.7617 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryRequest", "RpcId" : 4, "_id" : NumberLong("101676905615"), "NeedCache" : true, "CollectionName" : "UserInfo" }
+2023-02-22 18:50:46.7916 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryResponse", "RpcId" : 4, "Error" : 0, "Message" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905615"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong("15376501252"), "Email" : "2497179110@qq.com", "Sex" : "男", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-22 18:50:46.8084 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 5, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676905615"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "Phone" : NumberLong(1), "Email" : "1", "Sex" : "1", "Title" : "贫农", "LastPlay" : 0 } }
+2023-02-22 18:50:46.8857 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 5, "Error" : 0, "Message" : null }
+2023-02-22 18:50:57.5493 AllServer 0001 (Session.cs:142) { "_t" : "A0005_PlayerOffline_G2R", "RpcId" : 0, "UserID" : NumberLong("101676905615") }

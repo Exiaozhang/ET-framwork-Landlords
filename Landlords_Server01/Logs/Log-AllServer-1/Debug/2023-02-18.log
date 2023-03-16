@@ -1,0 +1,62 @@
+2023-02-18 15:01:50.9857 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 15:02:09.2742 AllServer 0001 (Session.cs:142) { "_t" : "A0001_Register_C2R", "RpcId" : 2, "Account" : "1", "Password" : "1" }
+2023-02-18 15:04:03.1484 AllServer 0001 (Session.cs:142) { "_t" : "A0001_Register_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 15:07:39.7719 AllServer 0001 (Session.cs:142) { "_t" : "A0001_Register_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 15:07:39.8030 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1'}" }
+2023-02-18 15:07:39.8940 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 15:07:39.9102 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 2, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" } }
+2023-02-18 15:07:40.0309 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 2, "Error" : 0, "Message" : null }
+2023-02-18 15:07:40.0309 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveRequest", "RpcId" : 3, "NeedCache" : true, "CollectionName" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676704060"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "LastPlay" : 0 } }
+2023-02-18 15:07:40.0746 AllServer 0001 (Session.cs:142) { "_t" : "DBSaveResponse", "RpcId" : 3, "Error" : 0, "Message" : null }
+2023-02-18 15:07:51.5791 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 2, "Account" : "1", "Password" : "1" }
+2023-02-18 15:07:51.5933 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 4, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 15:07:51.6251 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 4, "Error" : 0, "Message" : null }
+2023-02-18 15:07:51.6251 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 5, "UserID" : NumberLong("101676704060") }
+2023-02-18 15:07:51.6555 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 5, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("-6516447362266274209") }
+2023-02-18 15:07:51.6710 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 3, "GateLoginKey" : NumberLong("-6516447362266274209") }
+2023-02-18 17:21:46.4545 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 17:21:46.4871 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 17:21:46.5945 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 17:21:46.5945 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676704060") }
+2023-02-18 17:21:46.6254 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("5519257097821977707") }
+2023-02-18 17:21:46.6452 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("5519257097821977707") }
+2023-02-18 17:24:40.2317 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 17:24:40.2655 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 17:24:40.3572 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 17:24:40.3717 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676704060") }
+2023-02-18 17:24:40.3881 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("-3022159613714819427") }
+2023-02-18 17:24:40.4084 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("-3022159613714819427") }
+2023-02-18 17:33:11.0087 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 17:33:11.0380 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 17:33:11.1306 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 17:33:11.1447 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676704060") }
+2023-02-18 17:33:11.1610 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("-2897684083025670820") }
+2023-02-18 17:33:11.1799 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("-2897684083025670820") }
+2023-02-18 17:50:10.8334 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 17:50:10.8530 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 17:50:10.9449 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 17:50:10.9593 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676704060") }
+2023-02-18 17:50:10.9756 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("-8410210346571667968") }
+2023-02-18 17:50:10.9990 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("-8410210346571667968") }
+2023-02-18 18:30:53.6868 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 18:30:53.7077 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 18:30:53.8021 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 18:30:53.8157 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676704060") }
+2023-02-18 18:30:53.8314 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("-9025431812870034092") }
+2023-02-18 18:30:53.8537 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("-9025431812870034092") }
+2023-02-18 22:38:52.9270 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 22:38:52.9835 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 22:38:53.2336 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 22:38:53.2749 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676704060") }
+2023-02-18 22:38:53.3236 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("-4680128440041258470") }
+2023-02-18 22:38:53.3865 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("-4680128440041258470") }
+2023-02-18 22:38:53.4613 AllServer 0001 (Session.cs:142) { "_t" : "A1001_GetUserInfo_C2G", "RpcId" : 3 }
+2023-02-18 22:39:38.6444 AllServer 0001 (Session.cs:142) { "_t" : "A0002_Login_C2R", "RpcId" : 1, "Account" : "1", "Password" : "1" }
+2023-02-18 22:39:38.6643 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonRequest", "RpcId" : 1, "CollectionName" : "AccountInfo", "Json" : "{Account:'1',Password:'1'}" }
+2023-02-18 22:39:38.7562 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryJsonResponse", "Components" : [{ "_t" : "AccountInfo", "_id" : NumberLong("101676704060"), "C" : [], "Account" : "1", "Password" : "1" }], "RpcId" : 1, "Error" : 0, "Message" : null }
+2023-02-18 22:39:38.7702 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_R2G", "RpcId" : 2, "UserID" : NumberLong("101676704060") }
+2023-02-18 22:39:38.7855 AllServer 0001 (Session.cs:142) { "_t" : "A0006_GetLoginKey_G2R", "RpcId" : 2, "Error" : 0, "Message" : null, "GateLoginKey" : NumberLong("9124208719523975970") }
+2023-02-18 22:39:38.8164 AllServer 0001 (Session.cs:142) { "_t" : "A0003_LoginGate_C2G", "RpcId" : 2, "GateLoginKey" : NumberLong("9124208719523975970") }
+2023-02-18 22:39:38.8471 AllServer 0001 (Session.cs:142) { "_t" : "A1001_GetUserInfo_C2G", "RpcId" : 3 }
+2023-02-18 22:39:38.8643 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryRequest", "RpcId" : 3, "_id" : NumberLong("101676704060"), "NeedCache" : true, "CollectionName" : "UserInfo" }
+2023-02-18 22:39:38.9403 AllServer 0001 (Session.cs:142) { "_t" : "DBQueryResponse", "RpcId" : 3, "Error" : 0, "Message" : null, "Component" : { "_t" : "UserInfo", "_id" : NumberLong("101676704060"), "C" : [], "UserName" : "1", "Level" : 1, "Money" : NumberLong(10000), "LastPlay" : 0 } }

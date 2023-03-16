@@ -1,0 +1,23 @@
+2023-02-16 13:25:33.8051 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 18:08:09.9699 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 18:08:10.2220 AllServer 0001 (Session.cs:142) { "_t" : "C2G_MyTestMessage", "RpcId" : 2, "Info" : "==>>Server Friend,Hello!Respond!" }
+2023-02-16 18:12:59.6490 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 18:12:59.9575 AllServer 0001 (Session.cs:142) { "_t" : "C2G_MyTestMessage", "RpcId" : 2, "Info" : "==>>Server Friend,Hello!Respond!" }
+2023-02-16 18:17:31.8429 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 18:17:32.1105 AllServer 0001 (Session.cs:142) { "_t" : "C2G_MyTestMessage", "RpcId" : 2, "Info" : "==>>Server Friend,Hello!Respond!" }
+2023-02-16 20:19:19.4070 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 20:19:19.7480 AllServer 0001 (Session.cs:142) { "_t" : "C2R_Login", "RpcId" : 2, "Account" : "", "Password" : "" }
+2023-02-16 20:19:19.7679 AllServer 0001 (Session.cs:142) { "_t" : "R2G_GetLoginKey", "RpcId" : 1, "Account" : "" }
+2023-02-16 20:19:19.7790 AllServer 0001 (Session.cs:142) { "_t" : "G2R_GetLoginKey", "RpcId" : 1, "Error" : 0, "Message" : null, "Key" : NumberLong("9126413087639911451") }
+2023-02-16 20:20:53.6573 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 20:20:53.6733 AllServer 0001 (Session.cs:142) { "_t" : "C2R_Login", "RpcId" : 2, "Account" : "", "Password" : "" }
+2023-02-16 20:20:53.6884 AllServer 0001 (Session.cs:142) { "_t" : "R2G_GetLoginKey", "RpcId" : 2, "Account" : "" }
+2023-02-16 20:20:53.7040 AllServer 0001 (Session.cs:142) { "_t" : "G2R_GetLoginKey", "RpcId" : 2, "Error" : 0, "Message" : null, "Key" : NumberLong("3462033234685654761") }
+2023-02-16 20:30:38.7284 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 20:30:38.9689 AllServer 0001 (Session.cs:142) { "_t" : "C2G_MyTestMessage", "RpcId" : 2, "Info" : "==>>Server Frined,Hello!Responed!" }
+2023-02-16 20:34:40.4834 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 20:34:40.7461 AllServer 0001 (Session.cs:142) { "_t" : "C2G_MyTestMessage", "RpcId" : 2, "Info" : "==>>Server Frined,Hello!Responed!" }
+2023-02-16 20:35:16.2328 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 20:35:16.2800 AllServer 0001 (Session.cs:142) { "_t" : "C2G_MyTestMessage", "RpcId" : 2, "Info" : "==>>Server Frined,Hello!Responed!" }
+2023-02-16 20:36:34.8958 AllServer 0001 (Session.cs:142) { "_t" : "C2G_TestMessage", "RpcId" : 1, "Info" : "==>>服务端的朋友,你好!收到请回答" }
+2023-02-16 20:36:34.9113 AllServer 0001 (Session.cs:142) { "_t" : "C2G_MyTestMessage", "RpcId" : 2, "Info" : "==>>Server Frined,Hello!Responed!" }
