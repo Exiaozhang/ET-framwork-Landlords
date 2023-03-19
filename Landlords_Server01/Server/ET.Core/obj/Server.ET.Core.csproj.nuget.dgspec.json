@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj": {}
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj": {}
   },
   "projects": {
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj",
         "projectName": "ET.Core",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ET.Core\\Server.ET.Core.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ET.Core\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ET.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -35,20 +35,20 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj"
               },
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj"
               },
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               },
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
               },
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj"
               }
             }
           }
@@ -100,18 +100,18 @@
         }
       }
     },
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
         "projectName": "Google.Protobuf",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -131,8 +131,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               }
             }
           }
@@ -168,18 +168,18 @@
         }
       }
     },
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
         "projectName": "KcpLib",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\KcpLib.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\KcpLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -232,18 +232,18 @@
         }
       }
     },
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
       "version": "0.0.0-local",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
         "projectName": "MongoDB.Bson",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -299,18 +299,18 @@
         }
       }
     },
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
       "version": "0.0.0-local",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
         "projectName": "MongoDB.Driver.Core",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -330,8 +330,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               }
             }
           }
@@ -374,18 +374,18 @@
         }
       }
     },
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj": {
       "version": "0.0.0-local",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
         "projectName": "MongoDB.Driver",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\MongoDB.Driver.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -405,11 +405,11 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               },
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Driver.Core\\MongoDB.Driver.Core.csproj"
               }
             }
           }

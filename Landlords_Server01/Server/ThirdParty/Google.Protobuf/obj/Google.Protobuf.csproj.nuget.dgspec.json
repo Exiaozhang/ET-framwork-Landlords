@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {}
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {}
   },
   "projects": {
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
         "projectName": "Google.Protobuf",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\Google.Protobuf.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\Google.Protobuf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
@@ -35,8 +35,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
-                "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
+              "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+                "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj"
               }
             }
           }
@@ -72,18 +72,18 @@
         }
       }
     },
-    "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
+    "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj": {
       "version": "0.0.0-local",
       "restore": {
-        "projectUniqueName": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+        "projectUniqueName": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
         "projectName": "MongoDB.Bson",
-        "projectPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
+        "projectPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\MongoDB.Bson.csproj",
         "packagesPath": "C:\\Users\\qwq\\.nuget\\packages\\",
-        "outputPath": "D:\\Backup\\CsProject\\EtLandLords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
+        "outputPath": "D:\\Backup\\CsProject\\ET-framwork-Landlords\\Landlords_Server01\\Server\\ThirdParty\\MongoDBDriver\\MongoDB.Bson\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
