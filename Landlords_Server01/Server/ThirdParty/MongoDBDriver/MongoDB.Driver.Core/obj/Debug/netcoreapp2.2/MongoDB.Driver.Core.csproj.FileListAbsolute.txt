@@ -58,3 +58,16 @@ D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriv
 D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.dll
 D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.xml
 D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.pdb
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Driver.Core.deps.json
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Driver.Core.dll
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Driver.Core.pdb
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Driver.Core.xml
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.csproj.AssemblyReference.cache
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.AssemblyInfoInputs.cache
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.AssemblyInfo.cs
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.csproj.CoreCompileInputs.cache
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.csproj.CopyComplete
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.dll
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.xml
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Driver.Core\obj\Debug\netcoreapp2.2\MongoDB.Driver.Core.pdb

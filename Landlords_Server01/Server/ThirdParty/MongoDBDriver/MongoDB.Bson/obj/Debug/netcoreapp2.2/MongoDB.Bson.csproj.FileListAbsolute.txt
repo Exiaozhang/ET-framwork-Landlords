@@ -51,3 +51,15 @@ D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriv
 D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.dll
 D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.xml
 D:\Backup\CsProject\EtLandLords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.pdb
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Bson.deps.json
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Bson.dll
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Bson.pdb
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Bin\netcoreapp2.2\MongoDB.Bson.xml
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.csproj.AssemblyReference.cache
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.AssemblyInfoInputs.cache
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.AssemblyInfo.cs
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.csproj.CoreCompileInputs.cache
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.dll
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.xml
+D:\Backup\CsProject\ET-framwork-Landlords\Landlords_Server01\Server\ThirdParty\MongoDBDriver\MongoDB.Bson\obj\Debug\netcoreapp2.2\MongoDB.Bson.pdb

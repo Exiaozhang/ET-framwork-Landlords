@@ -59,12 +59,17 @@
      <Compile Include="Assets\Model\Landlords\Entity\Gamer.cs" />
      <Compile Include="Assets\Model\Landlords\Entity\User.cs" />
      <Compile Include="Assets\Model\Landlords\Handler\Actor02_GamerReady_NttHandler.cs" />
+     <Compile Include="Assets\Model\Landlords\Handler\Actor05_Grab_LandlordAuthority_NttHandler.cs" />
      <Compile Include="Assets\Model\Landlords\Handler\Actor_GameStartHandCards_NttHandler.cs" />
      <Compile Include="Assets\Model\Landlords\Handler\Actor_GamerEnterRoom_NttHandler.cs" />
      <Compile Include="Assets\Model\Landlords\Handler\Actor_GamerExitRoom_NttHandler.cs" />
      <Compile Include="Assets\Model\Landlords\Handler\LandlordsMatcherPlusOne_Handler.cs" />
      <Compile Include="Assets\Model\Landlords\Handler\LandlordsMatcherReduceOne_Handler.cs" />
+     <Compile Include="Assets\Model\Landlords\LandUI\Event\CancelHandCardEvent.cs" />
+     <Compile Include="Assets\Model\Landlords\LandUI\Event\SelectHandCardEvent.cs" />
      <Compile Include="Assets\Model\Landlords\LandUI\LandHelper.cs" />
+     <Compile Include="Assets\Model\Landlords\LandUI\LandInteraction\LandInteractionComponent.cs" />
+     <Compile Include="Assets\Model\Landlords\LandUI\LandInteraction\LandInteractionFactory.cs" />
      <Compile Include="Assets\Model\Landlords\LandUI\LandLobby\LandLobbyComponent.cs" />
      <Compile Include="Assets\Model\Landlords\LandUI\LandLobby\LandLobbyFactory.cs" />
      <Compile Include="Assets\Model\Landlords\LandUI\LandLogin\LandLoginComponent.cs" />
@@ -110,6 +115,7 @@
      <Compile Include="Assets\Model\Test09\MyUIEventType.cs" />
      <Folder Include="Assets\Model\Module" />
      <Folder Include="Assets\Model\Landlords\Handler" />
+     <Folder Include="Assets\Model\Landlords\LandUI\Event" />
      <Folder Include="Assets\Model\Module\AssetsBundle" />
      <Folder Include="Assets\Model" />
      <Folder Include="Assets\Model\Landlords" />
@@ -123,6 +129,7 @@
      <None Include="Assets\Model\Unity.Model.asmdef" />
      <Folder Include="Assets\Model\Other" />
      <Folder Include="Assets\Model\Module\UI" />
+     <Folder Include="Assets\Model\Landlords\LandUI\LandInteraction" />
      <Folder Include="Assets\Model\Module\FairyGUI" />
      <Folder Include="Assets\Model\Landlords\LandUI" />
      <Folder Include="Assets\Model\Test05" />

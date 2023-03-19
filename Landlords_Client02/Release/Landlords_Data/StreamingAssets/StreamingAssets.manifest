@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 699714302
+CRC: 2833442878
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -22,4 +22,7 @@ AssetBundleManifest:
       Dependencies: {}
     Info_6:
       Name: atlas.unity3d
+      Dependencies: {}
+    Info_7:
+      Name: landinteraction.unity3d
       Dependencies: {}

@@ -2,193 +2,147 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1c46dfe-ab9d-469d-a27c-604589dd6b82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assembly-CSharp-firstpass.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/08/0874e33fd81340ab656600de90d7071b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/18/18644804de6261da619d6c889356b404" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/1c/1c9e4d96d6ff6327a79ced47d2059aa8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/1d/1d78a41f2dbe6462d323033c2288218d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/1f/1f0288bcecdc1d7a81601ff85dacefa3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/1f/1f13288bbe145f5d777edc8498b57d7a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/27/27862db19f72e0310efba05c89a0ed75" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/2c/2c8c870c2f16aa4b7be24ceef386a0ca" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/2e/2ebf6bbcf45f6b5b716b9d7c4def21af" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/34/3495aaf0f437fa2faaa52c8aad684c68" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/35/355da56ccf2b6db37f296196b5fbdd5a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/39/395dd96ea65431e32de7b7608cb3fb15" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/44/44e35db736fca81a90517e1a3df6e7e4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/4c/4c9bcb48921668a3116c7ec116d9b353" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/4e/4e89bd9df897bc3d98b9786443bf7a58" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/5c/5c93bd841bcafb20edd20ba50eca5bc7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/61/611862cba891d62a5bee1c8bcfd7e3ec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/63/63248bfa349f169ef66061a048292875" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/6e/6e5efad95952308cd98b72e3a66a24f3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/73/7319af35e0ea99662fd21969e29d2ad1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/75/75b5050236e8c9330892a2b839f8e754" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/7c/7c4f693a8a282cb4a9e2cfa3fd2c67f5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/8e/8e6b6aa5fe7637f4e91f885ba3dc225f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/8f/8f4e7ccbdc7d463a35f20026c52b7a04" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/8f/8f8b3d0e3e240d173e5779d84418763c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/90/90f7e1c30ce8d996db5f2dedba8dac26" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/96/9670b076b1cca78423e59a73fbd7ff20" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/98/9864a486f7a5602848adb2b292f7aa30" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/9c/9c335585d9731f62b2177ef00a3027ba" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/9e/9e61de4b3aff859cb56326cc126ef83d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/a7/a7676305adfd3f8c10af73306ac43f50" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/ad/ad092d8ff893b4ffdb685d023a5ac574" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/b3/b3793a94eba92b34f4ad337975bc23e4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/cc/ccf6914f5dfc6d41a9e77c22d4e8bf7b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/cd/cd718811a382ac35b3d258b7c6b133d7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/d3/d3bbcf573f2a50c68d003eb93f71ce66" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/e8/e8787b247002eddd1e05ecbacf9ba5d6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/eb/eb261ad6e56a0b80b61179f2b685a132" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/f3/f3a4ff7face877383f35772ddaef94ba" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/Artifacts/f4/f4b1d8ed7763871b4663b7173db62da5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/EditorInstance.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/.signature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Documentation~/TableOfContents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Documentation~/images/preferences-rider-tab.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Documentation~/images/preferences-settings-external-tools-window.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Documentation~/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Documentation~/using-the-jetbrains-rider-editor-package.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/AssemblyNameProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/AssemblyNameProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/FileIOProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/GUIDProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IAssemblyNameProvider.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IAssemblyNameProvider.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IFileIO.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IFileIO.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IGUIDGenerator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IGUIDGenerator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IGenerator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/IGenerator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/LastWriteTracker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/LastWriteTracker.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/ProjectGeneration.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/ProjectGenerationFlag.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/ProjectGenerationFlag.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/ProjectPart.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/ProjectPart.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/SolutionGuidGenerator.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/SolutionGuidGenerator.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Properties.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Properties/AssemblyInfo.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderInitializer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderScriptEditorData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderScriptEditorDataPersisted.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderScriptEditorDataPersisted.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderStyles.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderStyles.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/StartUpMethodExecutor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/StartUpMethodExecutor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/CallbackData.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/SyncTestRunCallback.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/RiderPathUtil.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/SerializableVersion.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/SerializableVersion.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/StringUtils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/StringUtils.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/com.unity.ide.rider.asmdef" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Temp/UnityTempFile-d7459428c9d23044d984d18744e24f7b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-firstpass.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/Handler/Actor05_Grab_LandlordAuthority_NttHandler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/Handler/Actor05_Grab_LandlordAuthority_NttHandler.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/Event.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/Event/CancelHandCardEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/Event/CancelHandCardEvent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/Event/SelectHandCardEvent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/Event/SelectHandCardEvent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/LandInteraction.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/LandInteraction/LandInteractionComponent.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/LandInteraction/LandInteractionComponent.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/LandInteraction/LandInteractionFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/LandInteraction/LandInteractionFactory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/.idea/.idea.Server/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/.idea/.idea.Server/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/.idea/.idea.Server/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proto/OuterMessage.proto" beforeDir="false" afterPath="$PROJECT_DIR$/../Proto/OuterMessage.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/ET.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/ET.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.ThirdParty.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.ThirdParty.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/StreamingAssets" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/StreamingAssets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/StreamingAssets.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/StreamingAssets.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/Version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/Version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/handcard.unity3d" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/handcard.unity3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/handcard.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/handcard.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/landlobby.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/landlobby.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/landlogin.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/landlogin.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/landroom.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/landroom.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/setuserinfo.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/StreamingAssets/setuserinfo.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/resources.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/resources.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Release/Landlords_Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../Release/Landlords_Data/sharedassets0.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ET.Core.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ET.Core.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/CHANGELOG.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/CHANGELOG.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/CONTRIBUTING.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/CONTRIBUTING.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Documentation~/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Documentation~/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/LICENSE.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/LICENSE.md.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/LICENSE.md.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Discovery.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Discovery.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Discovery.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Discovery.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/EditorPluginInterop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/EditorPluginInterop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/EditorPluginInterop.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/EditorPluginInterop.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/LoggingLevel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/LoggingLevel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/LoggingLevel.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/LoggingLevel.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/PluginSettings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/PluginSettings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/PluginSettings.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/PluginSettings.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/PostProcessors.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/PostProcessors.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/PostProcessors/RiderAssetPostprocessor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/PostProcessors/RiderAssetPostprocessor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/PostProcessors/RiderAssetPostprocessor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/PostProcessors/RiderAssetPostprocessor.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/FileIOProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/FileIOProvider.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/FileIOProvider.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/GUIDProvider.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/GUIDProvider.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/GUIDProvider.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/ProjectGeneration.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/ProjectGeneration/ProjectGeneration.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/ProjectGeneration/ProjectGeneration.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/RiderInitializer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/RiderInitializer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderInitializer.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/RiderScriptEditor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderScriptEditor.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/RiderScriptEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderScriptEditor.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/RiderScriptEditorData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/RiderScriptEditorData.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/RiderScriptEditorData.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/CallbackData.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/CallbackData.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/CallbackData.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/CallbackInitializer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/CallbackInitializer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/CallbackInitializer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/CallbackInitializer.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/RiderTestRunner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/RiderTestRunner.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/RiderTestRunner.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/RiderTestRunner.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/SyncTestRunCallback.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/SyncTestRunCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/SyncTestRunCallback.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/SyncTestRunEventsHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/SyncTestRunEventsHandler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/SyncTestRunEventsHandler.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/SyncTestRunEventsHandler.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/TestEvent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/TestEvent.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/TestEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/TestEvent.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/TestsCallback.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/TestsCallback.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/UnitTesting/TestsCallback.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/UnitTesting/TestsCallback.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/CommandLineParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/CommandLineParser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/CommandLineParser.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/CommandLineParser.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/FileSystemUtil.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/FileSystemUtil.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/FileSystemUtil.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/FileSystemUtil.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/LibcNativeInterop.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/LibcNativeInterop.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/LibcNativeInterop.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/LibcNativeInterop.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/RiderMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/RiderMenu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/RiderMenu.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/RiderMenu.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/UnityUtils.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/Util/UnityUtils.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/Util/RiderPathUtil.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/com.unity.ide.rider.asmdef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/Rider/Editor/com.unity.ide.rider.asmdef.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/Rider/Editor/com.unity.ide.rider.asmdef.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@1.2.1/package.json.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.18/package.json.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ET.Core/Module/Message/OuterMessage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ET.Core/Module/Message/OuterMessage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ET.Core/Module/Message/OuterOpcode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ET.Core/Module/Message/OuterOpcode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Model/Landlords/Component/LandlordsGamerPanelComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/Landlords/Component/LandlordsGamerPanelComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/LandRoom/LandRoomComponent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/LandRoom/LandRoomComponent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/UIEventType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Model/Landlords/LandUI/UIEventType.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/ET.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/ET.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.ThirdParty.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.ThirdParty.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/Managed/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/resources.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/resources.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/Data/sharedassets0.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/ScriptsOnlyCache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win64/ScriptsOnlyCache.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ProtocolInstance.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ProtocolInstance.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/ET.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/ET.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/ET.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/ET.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Model.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/199176-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/199176-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" beforeDir="false" afterPath="$PROJECT_DIR$/Library/UIElements/EditorWindows/UnityEditor.PackageManager.UI.PackageManagerWindow.pref" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unity.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Editor.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unity.Model.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.Model.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unity.ThirdParty.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.ThirdParty.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unity.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Unity.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/ET.Core.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/ET.Core.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.Editor.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.Model.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.Model.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Unity.ThirdParty.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Unity.ThirdParty.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/StreamingAssets" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/StreamingAssets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/StreamingAssets.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/StreamingAssets.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/Version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/Version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/handcard.unity3d" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/handcard.unity3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/handcard.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/handcard.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/landlobby.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/landlobby.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/landlogin.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/landlogin.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/landroom.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/landroom.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/setuserinfo.unity3d.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/../WebRes/PC/StreamingAssets/setuserinfo.unity3d.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/App.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/App.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/App.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/App.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/ET.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/ET.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/ET.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/ET.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Google.Protobuf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Google.Protobuf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Google.Protobuf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Google.Protobuf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Hotfix.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Hotfix.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Hotfix.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/Hotfix.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/KcpLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/KcpLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/KcpLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/KcpLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Bson.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Bson.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Bson.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Bson.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/MongoDB.Driver.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Bson.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Bson.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Bson.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Bson.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Bin/netcoreapp2.2/MongoDB.Driver.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Logs/Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Logs/Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/.vs/Server/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/.vs/Server/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/.vs/Server/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/.vs/Server/v16/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/App.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/App.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/App.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/App.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/App/obj/Debug/Server.App.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/Module/Message/OuterMessage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/Module/Message/OuterMessage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/Module/Message/OuterOpcode.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/Module/Message/OuterOpcode.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/ET.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/ET.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/ET.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/ET.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ET.Core/obj/Debug/Server.ET.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/Landlords/System/GameControllerComponentSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/Landlords/System/GameControllerComponentSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Hotfix.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Hotfix.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Hotfix.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Hotfix.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Server.Hotfix.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Server.Hotfix.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Server.Hotfix.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/Hotfix/obj/Debug/Server.Hotfix.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/Google.Protobuf/obj/Debug/Google.Protobuf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/KcpLib/obj/Debug/KcpLib.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/KcpLib/obj/Debug/KcpLib.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/KcpLib/obj/Debug/KcpLib.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/KcpLib/obj/Debug/KcpLib.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/KcpLib/obj/Debug/KcpLib.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/KcpLib/obj/Debug/KcpLib.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Bson/obj/Debug/netcoreapp2.2/MongoDB.Bson.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.Core/obj/Debug/netcoreapp2.2/MongoDB.Driver.Core.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver.GridFS/obj/Debug/netcoreapp2.2/MongoDB.Driver.GridFS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Landlords_Server01/Server/ThirdParty/MongoDBDriver/MongoDB.Driver/obj/Debug/netcoreapp2.2/MongoDB.Driver.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +152,11 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2N0Pcwcd0xYFsoKMeqnVEwUNfnK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -267,13 +225,22 @@
       <updated>1678798112282</updated>
       <workItem from="1678798121471" duration="117000" />
       <workItem from="1679230070949" duration="10000" />
-      <workItem from="1679230088190" duration="329000" />
+      <workItem from="1679230088190" duration="2005000" />
     </task>
+    <task id="LOCAL-00001" summary="Rider第一次提交">
+      <created>1679230482105</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230482105</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,5 +268,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Rider第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rider第一次提交" />
   </component>
 </project>
