@@ -4,6 +4,7 @@ namespace ETModel
 {
 	public static class Log
 	{
+		
 #if SERVER
 		private static readonly ILog globalLog = new NLogAdapter();
 

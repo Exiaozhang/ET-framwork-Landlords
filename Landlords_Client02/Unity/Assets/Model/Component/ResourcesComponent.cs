@@ -205,13 +205,13 @@ namespace ETModel
 			Dictionary<string, UnityEngine.Object> dict;
 			if (!this.resourceCache.TryGetValue(bundleName.BundleNameToLower(), out dict))
 			{
-				throw new Exception($"not found asset: {bundleName} {prefab}");
+				throw new Exception($"not found asset: {bundleName} | {prefab}");
 			}
 
 			UnityEngine.Object resource = null;
 			if (!dict.TryGetValue(prefab, out resource))
 			{
-				throw new Exception($"not found asset: {bundleName} {prefab}");
+				throw new Exception($"not found asset: {bundleName} | {prefab}");
 			}
 
 			return resource;

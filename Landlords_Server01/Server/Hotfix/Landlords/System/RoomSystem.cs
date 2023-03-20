@@ -53,9 +53,9 @@ namespace ETHotfix
             self.AddComponent<GameControllerComponent, RoomConfig>(GateHelper.GetLandlordsConfig(RoomLevel.Lv100));
 
             //手牌缓存组件
-            //self.AddComponent<DeskCardsCacheComponent>();
+            self.AddComponent<DeskCardsCacheComponent>();
             //出牌控制组件
-            //self.AddComponent<OrderControllerComponent>();
+            self.AddComponent<OrderControllerComponent>();
 
             //开始游戏
             self.GetComponent<GameControllerComponent>().StartGame();
@@ -155,6 +155,20 @@ namespace ETHotfix
         }
 
         /// <summary>
+        /// 清除房间重重新匹配
+        /// </summary>
+        /// <param name="self"></param>
+        public static void ClearRoom(this Room self){
+            LandMatchComponent Match = Game.Scene.GetComponent<LandMatchComponent>();
+            for(int i=0;i<self.gamers.Length;i++)
+            {
+                Gamer gamer = self.gamers[i];
+                Match.Playing.Remove(gamer.UserID);
+                gamer.Dispose();
+                self.Dispose();
+            }
+        }
+        /// <summary>
         /// 广播消息
         /// </summary>
         public static void Broadcast(this Room self, IActorMessage message)
@@ -172,5 +186,6 @@ namespace ETHotfix
                 actorProxy.Send(message);
             }
         }
+        
     }
 }

@@ -201,5 +201,15 @@ namespace ETModel
         {
             SessionComponent.Instance.Session.Send(new Actor_GamerGrabLandlordSelect_Ntt() { IsGrab = false });
         }
+        
+        /// <summary>
+        /// 游戏结束
+        /// </summary>
+        public void Gameover()
+        {
+            promptButton.gameObject.SetActive(false);
+            playButton.gameObject.SetActive(false);
+            discardButton.gameObject.SetActive(false);
+        }
     }
 }

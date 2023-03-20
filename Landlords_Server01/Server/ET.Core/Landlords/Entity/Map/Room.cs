@@ -1,8 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 
 namespace ETModel
 {
+
+
     /// <summary>
     /// 房间配置
     /// </summary>
@@ -38,11 +41,19 @@ namespace ETModel
         /// </summary>
         public readonly Gamer[] gamers = new Gamer[3];
         public readonly bool[] isReadys = new bool[3];
+        
+                
+        //暂用地主牌属性
+        //public readonly List<Card> LordCards = new List<Card>();
+        //public readonly List<Card> LordCache = new List<Card>();
 
         /// <summary>
         /// 房间中玩家的数量
         /// </summary>
         public int Count { get { return seats.Values.Count; } }
+        
+        //清房间waiting的cts
+        public CancellationTokenSource CancellationTokenSource;
 
         public override void Dispose()
         {
